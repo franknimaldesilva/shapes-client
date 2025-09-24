@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "86GpWHYBB7w=",
+  "success": true,
+  "projectFilePath": "C:\\Shapes\\shapes-client\\server\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

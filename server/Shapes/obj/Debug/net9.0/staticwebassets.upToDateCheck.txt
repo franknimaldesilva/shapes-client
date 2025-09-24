@@ -1,0 +1,14 @@
+C:\Shapes\shapes-client\server\Shapes\wwwroot\jsversion\js\index.js
+C:\Shapes\shapes-client\server\Shapes\wwwroot\jsversion\index.html
+C:\Shapes\shapes-client\server\Shapes\wwwroot\jsversion\favicon.ico
+C:\Shapes\shapes-client\server\Shapes\wwwroot\favicon.ico
+C:\Shapes\shapes-client\server\Shapes\wwwroot\index.html
+C:\Shapes\shapes-client\server\Shapes\wwwroot\styles-W575D4UI.css
+C:\Shapes\shapes-client\server\Shapes\wwwroot\main-TS5SDSFQ.js
+wwwroot\favicon.ico
+wwwroot\index.html
+wwwroot\jsversion\favicon.ico
+wwwroot\jsversion\index.html
+wwwroot\jsversion\js\index.js
+wwwroot\main-TS5SDSFQ.js
+wwwroot\styles-W575D4UI.css
