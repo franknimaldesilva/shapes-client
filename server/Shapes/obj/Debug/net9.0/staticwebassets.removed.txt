@@ -1,3 +1,0 @@
-C:\Shapes\shapes-client\server\Shapes\wwwroot\jsversion\js\index.js
-C:\Shapes\shapes-client\server\Shapes\wwwroot\jsversion\index.html
-C:\Shapes\shapes-client\server\Shapes\wwwroot\jsversion\favicon.ico
